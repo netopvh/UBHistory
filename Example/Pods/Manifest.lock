@@ -1,0 +1,35 @@
+PODS:
+  - HCSStarRatingView (1.5)
+  - lottie-ios (2.5.3)
+  - UBHistory (1.1.8):
+    - HCSStarRatingView
+    - lottie-ios (~> 2.5.2)
+    - UIScrollView-InfiniteScroll
+    - USE_Coordinator
+  - UIScrollView-InfiniteScroll (1.1.0)
+  - USE_Coordinator (0.1.0)
+
+DEPENDENCIES:
+  - UBHistory (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - HCSStarRatingView
+    - lottie-ios
+    - UIScrollView-InfiniteScroll
+    - USE_Coordinator
+
+EXTERNAL SOURCES:
+  UBHistory:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HCSStarRatingView: 1d18f79654735514cd6f00e6d90e38cb6320dc31
+  lottie-ios: a50d5c0160425cd4b01b852bb9578963e6d92d31
+  UBHistory: d6b4fa1144117631978cfe7965edd73ba3ff22b9
+  UIScrollView-InfiniteScroll: 3ef456bcbe759c19f510a383cff96e6647c98c98
+  USE_Coordinator: c413fed8f24c3ac3af519531f39538e39142fe2f
+
+PODFILE CHECKSUM: 6f69be02a94b07f54b2a7d8dbe458ebfbd10bb84
+
+COCOAPODS: 1.8.4

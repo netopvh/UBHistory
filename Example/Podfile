@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'UBHistory_Example' do
+  pod 'UBHistory', :path => '../'
+
+  target 'UBHistory_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

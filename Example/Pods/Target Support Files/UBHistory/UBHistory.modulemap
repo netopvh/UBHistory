@@ -1,0 +1,6 @@
+framework module UBHistory {
+  umbrella header "UBHistory-umbrella.h"
+
+  export *
+  module * { export * }
+}
